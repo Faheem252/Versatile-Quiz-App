@@ -1,0 +1,18 @@
+.card{
+    margin-top: 70px!important;
+    width: 50%;
+    margin-left: 220px;
+    background-color: black!important;
+    color: white;
+    border-radius: 20px!important;
+}
+
+.optionElement:hover{
+  color: blanchedalmond!important;
+  cursor: pointer;
+  background-color: red;
+}
+.active{
+    background-color: red;
+    color:blanchedalmond!important;
+}
